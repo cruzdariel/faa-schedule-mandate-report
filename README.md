@@ -46,7 +46,7 @@ SQLite database (`data.db`) with the following structure:
 - `daily_cancellation_percentages()`: Calculates daily cancellation rates
 - `_freeze_data_at_nov_17()`: Removes data after November 17th, 2025 to maintain historical accuracy
 
-## License
+## License and Disclaimer
 
 This dashboard was developed with assistance from Claude Code. This project is provided as-is for data analysis and historical tracking purposes.
 
@@ -54,4 +54,3 @@ This dashboard was developed with assistance from Claude Code. This project is p
 
 - The rolling 3-day ingest functionality is currently disabled (lines 527-528, 535) to maintain the frozen historical dataset
 - Cancellation status is preserved for past flights - once marked cancelled, the status persists in the database
-- The application distinguishes between arrivals and departures based on whether MCO is the arrival or departure airport
