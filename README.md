@@ -1,4 +1,4 @@
-# MCO Flight Reduction Dashboard
+# An Analysis of Mandated Flight Reductions at Orlando International Airport
 
 A real-time dashboard tracking flight cancellations at Orlando International Airport (MCO) during a period of aviation disruption. This application monitored flight data from the Greater Orlando Aviation Authority (GOAA) API and provided comprehensive analytics on cancellation patterns during the November 2025 FAA flight reduction mandates.
 
